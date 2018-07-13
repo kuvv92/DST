@@ -1,0 +1,3 @@
+- nazwa zbioru testowego: data4.csv w folderze .....WKS\gra - trenerzy\runda_3
+- nazwa kolumny/kolumn. Których predykcje robimy: Y
+- typ predykcji: regresja

@@ -1,0 +1,3 @@
+- nazwa zbioru testowego: bank_marketing__validation.csv w folderze .....WKS\gra - trenerzy\runda_1\marketing_department
+- nazwa kolumny/kolumn. Których predykcje robimy: y
+- typ predykcji: klasyfikacja
